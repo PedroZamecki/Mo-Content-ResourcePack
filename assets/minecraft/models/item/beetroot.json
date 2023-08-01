@@ -1,0 +1,32 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+        "layer0": "minecraft:item/beetroot"
+    },
+    "overrides": [
+        {
+            "predicate": {
+                "custom_model_data": 10
+            },
+            "model": "minecraft:block/tomato_crop/stage0"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 11
+            },
+            "model": "minecraft:block/tomato_crop/stage1"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 12
+            },
+            "model": "minecraft:block/tomato_crop/stage2"
+        },
+        {
+            "predicate": {
+                "custom_model_data": 13
+            },
+            "model": "minecraft:block/tomato_crop/stage3"
+        } 
+    ]
+}
