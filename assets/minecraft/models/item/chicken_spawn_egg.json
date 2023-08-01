@@ -5,13 +5,7 @@
 			"predicate": {
 				"custom_model_data": 1
 			},
-			"model": "minecraft:item/tomato_seeds"
-		},
-		{
-			"predicate": {
-				"custom_model_data": 2
-			},
-			"model": "minecraft:block/pizza_dough/stage_0"
+			"model": "mo:item/tomato_seeds"
 		}
 	]
 }

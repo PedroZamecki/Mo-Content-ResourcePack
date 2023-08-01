@@ -1,6 +1,6 @@
 {
 	"textures": {
-		"0": "minecraft:block/tomato_crop_stage2"
+		"0": "mo:block/tomato_crop/stage1"
 	},
 	"elements": [
 		{
